@@ -1,0 +1,7 @@
+Tugas Praktikum Sistem Paralel dan Terdistribusi
+
+Nama: Ander Gibran
+NIM: E1E124028
+Kelas: B
+
+Melakukan praktik push dan pull di github.
